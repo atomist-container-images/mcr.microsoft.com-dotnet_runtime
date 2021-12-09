@@ -1,0 +1,4 @@
+# Tags: 6.0-alpine3.14-amd64
+FROM dotnet/runtime:6.0-alpine3.14-amd64
+FROM dotnet/runtime:6.0-alpine-amd64
+FROM dotnet/runtime:6.0.0-alpine3.14-amd64

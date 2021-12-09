@@ -1,0 +1,3 @@
+# Tags: 5.0-nanoserver-2004
+FROM dotnet/runtime:5.0-nanoserver-2004
+FROM dotnet/runtime:5.0.12-nanoserver-2004

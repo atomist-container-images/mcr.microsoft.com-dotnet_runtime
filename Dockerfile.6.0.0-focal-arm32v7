@@ -1,0 +1,3 @@
+# Tags: 6.0.0-focal-arm32v7
+FROM dotnet/runtime:6.0.0-focal-arm32v7
+FROM dotnet/runtime:6.0-focal-arm32v7

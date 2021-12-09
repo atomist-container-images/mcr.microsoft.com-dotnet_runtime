@@ -1,0 +1,3 @@
+# Tags: 6.0-nanoserver-20H2
+FROM dotnet/runtime:6.0-nanoserver-20H2
+FROM dotnet/runtime:6.0.0-nanoserver-20H2
