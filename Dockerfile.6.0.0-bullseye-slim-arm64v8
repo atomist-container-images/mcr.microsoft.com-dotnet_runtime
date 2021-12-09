@@ -1,3 +1,0 @@
-# Tags: 6.0.0-bullseye-slim-arm64v8
-FROM dotnet/runtime:6.0.0-bullseye-slim-arm64v8
-FROM dotnet/runtime:6.0-bullseye-slim-arm64v8

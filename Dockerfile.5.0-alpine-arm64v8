@@ -1,4 +1,4 @@
-# Tags: 5.0-alpine-arm64v8
-FROM dotnet/runtime:5.0-alpine-arm64v8
-FROM dotnet/runtime:5.0-alpine3.14-arm64v8
-FROM dotnet/runtime:5.0.12-alpine3.14-arm64v8
+# Tags: 5.0-alpine-arm64v8, 5.0-alpine3.14-arm64v8, 5.0.12-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime:5.0-alpine-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime:5.0-alpine3.14-arm64v8
+FROM mcr.microsoft.com/dotnet/runtime:5.0.12-alpine3.14-arm64v8
