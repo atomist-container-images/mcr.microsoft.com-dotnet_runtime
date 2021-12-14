@@ -1,3 +1,0 @@
-# Tags: 3.1-nanoserver-ltsc2022, 3.1.21-nanoserver-ltsc2022
-FROM mcr.microsoft.com/dotnet/runtime:3.1-nanoserver-ltsc2022
-FROM mcr.microsoft.com/dotnet/runtime:3.1.21-nanoserver-ltsc2022

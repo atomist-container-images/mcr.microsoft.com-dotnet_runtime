@@ -1,3 +1,0 @@
-# Tags: 5.0-windowsservercore-ltsc2022, 5.0.12-windowsservercore-ltsc2022
-FROM mcr.microsoft.com/dotnet/runtime:5.0-windowsservercore-ltsc2022
-FROM mcr.microsoft.com/dotnet/runtime:5.0.12-windowsservercore-ltsc2022

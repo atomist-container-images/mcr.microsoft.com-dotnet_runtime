@@ -1,5 +1,0 @@
-# Tags: 5.0-nanoserver-20H2, 5.0-nanoserver-2009, 5.0.12-nanoserver-2009, 5.0.12-nanoserver-20H2
-FROM mcr.microsoft.com/dotnet/runtime:5.0-nanoserver-20H2
-FROM mcr.microsoft.com/dotnet/runtime:5.0-nanoserver-2009
-FROM mcr.microsoft.com/dotnet/runtime:5.0.12-nanoserver-2009
-FROM mcr.microsoft.com/dotnet/runtime:5.0.12-nanoserver-20H2

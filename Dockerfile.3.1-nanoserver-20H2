@@ -1,5 +1,0 @@
-# Tags: 3.1-nanoserver-20H2, 3.1-nanoserver-2009, 3.1.21-nanoserver-20H2, 3.1.21-nanoserver-2009
-FROM mcr.microsoft.com/dotnet/runtime:3.1-nanoserver-20H2
-FROM mcr.microsoft.com/dotnet/runtime:3.1-nanoserver-2009
-FROM mcr.microsoft.com/dotnet/runtime:3.1.21-nanoserver-20H2
-FROM mcr.microsoft.com/dotnet/runtime:3.1.21-nanoserver-2009

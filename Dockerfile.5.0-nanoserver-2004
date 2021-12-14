@@ -1,3 +1,0 @@
-# Tags: 5.0-nanoserver-2004, 5.0.12-nanoserver-2004
-FROM mcr.microsoft.com/dotnet/runtime:5.0-nanoserver-2004
-FROM mcr.microsoft.com/dotnet/runtime:5.0.12-nanoserver-2004
